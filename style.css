@@ -1,4 +1,31 @@
-﻿html{
-background-color: rebeccapurple;
-margin: 0px;
+html {
+    background-color: rebeccapurple;
+    margin: 0;
+}
+.redBox {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.blueBox {
+    width: 300px;
+    height: 400px;
+    background-color: blue;
+    border: 2px solid red;
+}
+.greenBox {
+    width: 250px;
+    height: 600px;
+    background-color: green;
+    border-radius: 6px;
+}
+h1 {
+    width: 400px;
+    text-align: center;
+    color: white;
+}
+h2 {
+    width: 800px;
+    text-align: right;
+    color: orange;
 }
